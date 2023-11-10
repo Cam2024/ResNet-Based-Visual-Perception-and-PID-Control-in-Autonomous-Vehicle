@@ -1,6 +1,6 @@
 # ResNet-Based-Visual-Perception-and-PID-Control-in-Autonomous-Vehicle
 
-Blog url: jszhang20.github.io
+Blog url: [jszhang20.github.io](https://jszhang20.github.io/)
 
 Each part of the parts can be selected by yourself, in which the board part of the use of NVIDIA's Jetson nano.
 ![jetbot](https://github.com/Cam2024/ResNet-Based-Visual-Perception-and-PID-Control-in-Autonomous-Vehicle/assets/89662823/9b0cea21-ee12-4428-bd38-bb672eb55430)
